@@ -11,3 +11,5 @@ def countdown(num)
   end
 
 end
+
+def countdown_with_sleep
